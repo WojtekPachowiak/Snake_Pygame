@@ -17,4 +17,4 @@ While Snake is generally a pretty easy game to make, the need to change images d
 
   
 **BUG WARNING!**  
-If you change directions to quickly it's possible to do a 180 degree turn during one frame which results in collsion with yourself and death.
+If you change directions too quickly it's possible to do a 180 degree turn during one frame which results in collsion with yourself and death.
